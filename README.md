@@ -12,7 +12,7 @@
 1. ***Hiking***: Enjoy scenic treks with stunning views.
 2. ***Sunrise Watching***: Witness breathtaking sunrises.
 3. ***Paragliding***: Embrace the freedom of gliding high where the sky is our playground.
-- Favorite foods at my Favorite Vacation Spot
-    - *Corn:* Savoring the delicious roasted corn while taking in the breathtaking views at Nandi Hills is a delightful experience.
+- **Favorite foods at my Favorite Vacation Spot**
+    - ***Corn:*** Savoring the delicious roasted corn while taking in the breathtaking views at Nandi Hills is a delightful experience.
 
-    - *Tea:* Enjoying a hot cup of aromatic tea amidst the serene surroundings of Nandi Hills enhances the overall experience and adds to the enjoyment.
+    - ***Tea:*** Enjoying a hot cup of aromatic tea amidst the serene surroundings of Nandi Hills enhances the overall experience and adds to the enjoyment.
