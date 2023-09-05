@@ -5,3 +5,4 @@
 
 **It's more than just a spot for me; it's a retreat from the bustling city life.** It's a place where I can pause, breathe, and find solace in the simplicity of nature. Every time I leave, I carry a piece of its tranquility with me, reminding me that there's always a peaceful haven waiting atop those misty hills.
 
+-----------------------------------------------------------------------
