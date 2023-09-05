@@ -16,3 +16,5 @@
     - ***Corn:*** Savoring the delicious roasted corn while taking in the breathtaking views at Nandi Hills is a delightful experience.
 
     - ***Tea:*** Enjoying a hot cup of aromatic tea amidst the serene surroundings of Nandi Hills enhances the overall experience and adds to the enjoyment.
+
+[Know me more](MyStats.md)
