@@ -16,3 +16,10 @@ Searching for exciting ways to keep fit and active? Look no further! Below, you'
 | Hiking           | A fantastic way to connect with nature| 6              |
 | Swimming         | Excellent full-body workout           | 5              |
 | Cycling          | Eco-friendly and fun transportation   | 3              |
+
+--------------------------------------------------------------
+## Pithy Quotes by Scientists
+
+> "Science is the great adventure of our time." - Carl Sagan
+
+> "The only source of knowledge is experience." - Albert Einstein
