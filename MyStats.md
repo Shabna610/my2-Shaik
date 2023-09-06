@@ -37,6 +37,7 @@ Searching for exciting ways to keep fit and active? Look no further! Below, you'
 /// @param {Integer} $item-count - Number of items on the circle
 /// @param {Length} $circle-size - Large circle size
 /// @param {Length} $item-size - Single item size
+
 @mixin on-circle($item-count, $circle-size, $item-size) {
   position: relative;
   width:  $circle-size;
