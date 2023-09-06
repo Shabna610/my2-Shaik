@@ -31,9 +31,6 @@ Searching for exciting ways to keep fit and active? Look no further! Below, you'
 > Placing Items on a Circle.
 
 ```
-
-
-
 @mixin on-circle($item-count, $circle-size, $item-size) {
   position: relative;
   width:  $circle-size;
