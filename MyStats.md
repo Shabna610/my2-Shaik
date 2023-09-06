@@ -23,3 +23,49 @@ Searching for exciting ways to keep fit and active? Look no further! Below, you'
 > "Science is the great adventure of our time." - Carl Sagan
 
 > "The only source of knowledge is experience." - Albert Einstein
+
+## Code Snippet and Stack Overflow with Q & A
+
+> [*Stack Overflow Question Title*](https://css-tricks.com/snippets/sass/placing-items-circle/)
+> 
+> Block quoted question content from Stack Overflow.
+
+'''Sass
+// /// Mixin to place items on a circle
+/// @author Kitty Giraudel
+/// @author Ana Tudor
+/// @param {Integer} $item-count - Number of items on the circle
+/// @param {Length} $circle-size - Large circle size
+/// @param {Length} $item-size - Single item size
+@mixin on-circle($item-count, $circle-size, $item-size) {
+  position: relative;
+  width:  $circle-size;
+  height: $circle-size;
+  padding: 0;
+  border-radius: 50%; 
+  list-style: none;       
+  
+  > * {
+    display: block;
+    position: absolute;
+    top:  50%; 
+    left: 50%;
+    width:  $item-size;
+    height: $item-size;
+    margin: -($item-size / 2);
+  
+    $angle: (360 / $item-count);
+    $rot: 0;
+
+    @for $i from 1 through $item-count {
+      &:nth-of-type(#{$i}) {
+        transform: 
+          rotate($rot * 1deg) 
+          translate($circle-size / 2) 
+          rotate($rot * -1deg);
+      }
+
+      $rot: $rot + $angle;
+    }
+  }
+}
