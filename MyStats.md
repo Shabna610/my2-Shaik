@@ -31,7 +31,7 @@ Searching for exciting ways to keep fit and active? Look no further! Below, you'
 > Block quoted question content from Stack Overflow.
 
 '''Sass
-// /// Mixin to place items on a circle
+/// Mixin to place items on a circle
 /// @author Kitty Giraudel
 /// @author Ana Tudor
 /// @param {Integer} $item-count - Number of items on the circle
