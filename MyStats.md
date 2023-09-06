@@ -30,7 +30,7 @@ Searching for exciting ways to keep fit and active? Look no further! Below, you'
 > 
 > Block quoted question content from Stack Overflow.
 
-'''Sass
+'''
 
 
 
@@ -64,7 +64,6 @@ Searching for exciting ways to keep fit and active? Look no further! Below, you'
 
       $rot: $rot + $angle;
     }
-  }
-}
+'''
 
 [Source: CSS Tricks for Styling Buttons](https://css-tricks.com/snippets/)
