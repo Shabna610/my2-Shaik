@@ -28,7 +28,7 @@ Searching for exciting ways to keep fit and active? Look no further! Below, you'
 
 > [*Stack Overflow Question Title*](https://css-tricks.com/snippets/sass/placing-items-circle/)
 > 
-> Block quoted question content from Stack Overflow.
+> Placing Items on a Circle.
 
 ```
 
